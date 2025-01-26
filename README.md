@@ -9,7 +9,9 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Back-end%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+   
   </a>
 </p> 
 
@@ -17,7 +19,8 @@
 
 - 🏢 I'm a Software Engineer and Problem Solver
 - 👨‍💻 As a CS student in at the University Of People , I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Laravel , Php , ReactJS , Java Script , C++ , Kali Linux , Python, or anything related to web development and I love solving coding problems on HackerRank, my favorite platform.
+- 💬 Ask me about my experience with Laravel , Php , ReactJS , Java Script , C++ , Kali Linux , Python,
+       or anything related to web development and I love solving coding problems on HackerRank my favorite platform.
 - ⚡ Fun Fact: My Daily Routine day starts with reading a specific book for personal development and ends with listening to a podcast to learn from others' experiences.
 
 
