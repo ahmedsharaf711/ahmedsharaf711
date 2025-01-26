@@ -17,16 +17,18 @@
 
 
 
-- 🏢 I'm a Software Engineer and Problem Solver
+- 🏢 I'm a Software Engineer and Problem Solver.
   
-- 👨‍💻 As a CS student in at the University Of People ,
--  I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a CS student in at the University Of People , I'm constantly learning and exploring new technologies to improve my skills.
   
 - 💬 Ask me about my experience with Laravel , Php , ReactJS , Java Script , C++ , Kali Linux , Python,
   
+  
   or anything related to web development and I love solving coding problems on HackerRank my favorite platform.
   
+  
 - ⚡ Fun Fact: My Daily Routine day starts with reading a specific book for personal development and
+  
   
   ends with listening to a podcast to learn from others' experiences.
 
